@@ -1,7 +1,14 @@
+<h1 align="center">📚 Praktikum Bengkel Koding - Laravel</h1>
+<p align="center">
+  <b>Modul 1 – 3</b> | Pengenalan Laravel, Desain Database, Migrasi, dan Relasi Eloquent
+</p>
+
+---
+
 ## ⚙️ Lingkungan Pengembangan: Laragon, Composer, & VS Code
 
 Pada modul ini, dijelaskan bahwa langkah awal adalah melakukan instalasi **XAMPP** sebagai lingkungan pengembangan.  
-Namun, saya menggunakan **Laragon** sebagai pengganti XAMPP.
+Namun, saya menggunakan **Laragon** sebagai pengganti XAMPP karena lebih **ringan**, **otomatis mendeteksi virtual host**, dan **mendukung Laravel dengan baik**.
 
 > 💡 Laragon telah berhasil diinstal dan dikonfigurasi di perangkat saya.  
 > Berikut tampilan dan pengaturannya dapat dilihat pada screenshot di bawah ini.
@@ -24,25 +31,42 @@ Selain itu, saya juga telah menginstal **Composer** sebagai dependency manager u
   <img src="./gambar/vscode.png" alt="Tampilan VS Code" width="600">
 </p>
 
+---
+
 ## 🧱 Modul 2: Desain Database & Migrasi Laravel
 
-Pada modul ini, fokus utama adalah **mendesain struktur database** serta memahami cara kerja **migrasi di Laravel**.  
-Migrasi Laravel memudahkan kita dalam membuat, mengubah, dan mengelola tabel database menggunakan kode, sehingga lebih **terstruktur**, **terkontrol**, dan **mudah untuk diubah di masa depan.**
+Pada modul ini, saya telah **mengikuti seluruh langkah-langkah** yang dijelaskan mengenai **Desain Database** dan **Migrasi di Laravel**.  
+Proses ini meliputi pembuatan struktur tabel menggunakan migrasi dan pengecekan hasilnya di database.
 
-### 💡 Langkah-langkah yang dilakukan:
-1. **Mendesain struktur database** sesuai kebutuhan proyek (misalnya tabel `pasien`, `dokter`, `poli`, dan `kunjungan`).
-2. Membuat **file migrasi** menggunakan perintah artisan:
-   ```bash
-   php artisan make:migration create_nama_tabel_table
-Menyesuaikan kolom pada file migrasi di folder database/migrations.
+> 💡 Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, yang ditunjukkan melalui screenshot di bawah.
 
-Menjalankan migrasi untuk membuat tabel di database:
+<p align="center">
+  <img src="./gambar/env.png" alt="Desain Database" width="600">
+</p>
 
-bash
-Salin kode
-php artisan migrate
-Mengecek hasilnya di database menggunakan phpMyAdmin (melalui Laragon).
+<p align="center">
+  <img src="./gambar/database.png" alt="Migrasi Laravel" width="600">
+</p>
 
-📸 Berikut contoh hasil desain database dan proses migrasi Laravel:
+---
 
-<p align="center"> <img src="./gambar/database_design.png" alt="Desain Database" width="600"> </p> <p align="center"> <img src="./gambar/migrasi_laravel.png" alt="Proses Migrasi Laravel" width="600"> </p> ```
+## 🔗 Modul 3: Membuat Model dan Relasi Eloquent
+
+Pada modul ini, saya telah **mengikuti seluruh tahapan** dalam pembuatan **Model** dan penerapan **Relasi Eloquent** di Laravel.  
+Relasi Eloquent digunakan untuk menghubungkan antar tabel dalam database dengan cara yang **efisien**, **rapi**, dan **terstruktur.**
+
+> 💡 Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, ditunjukkan melalui screenshot di bawah.
+
+<p align="center">
+  <img src="./gambar/model.png" alt="Pembuatan Model Laravel" width="600">
+</p>
+
+<p align="center">
+  <img src="./gambar/laravel.png" alt="Relasi Eloquent Laravel" width="600">
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>Dokumentasi ini disusun sebagai bukti partisipasi dalam praktikum Bengkel Koding Laravel.</i> ✨
+</p>
