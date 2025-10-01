@@ -1,6 +1,6 @@
-<h1 align="center">📚 Praktikum Bengkel Koding - Laravel</h1>
+<h1 align="center">Praktikum Bengkel Koding - Laravel</h1>
 <p align="center">
-  <b>Modul 1 – 3</b> | Pengenalan Laravel, Desain Database, Migrasi, dan Relasi Eloquent
+  Modul 1–3 | Pengenalan Laravel, Desain Database, Migrasi, dan Relasi Eloquent
 </p>
 
 ---
@@ -10,7 +10,7 @@
 Pada modul ini, dijelaskan bahwa langkah awal adalah melakukan instalasi **XAMPP** sebagai lingkungan pengembangan.  
 Namun, saya menggunakan **Laragon** sebagai pengganti XAMPP karena lebih **ringan**, **otomatis mendeteksi virtual host**, dan **mendukung Laravel dengan baik**.
 
-> 💡 Laragon telah berhasil diinstal dan dikonfigurasi di perangkat saya.  
+> Laragon telah berhasil diinstal dan dikonfigurasi di perangkat saya.  
 > Berikut tampilan dan pengaturannya dapat dilihat pada screenshot di bawah ini.
 
 <p align="center">
@@ -21,7 +21,7 @@ Namun, saya menggunakan **Laragon** sebagai pengganti XAMPP karena lebih **ringa
 
 Selain itu, saya juga telah menginstal **Composer** sebagai dependency manager untuk Laravel, serta **Visual Studio Code (VS Code)** sebagai text editor utama dalam pengembangan proyek.
 
-> 🧩 Berikut adalah tampilan instalasi **Composer** dan **VS Code**:
+> Berikut adalah tampilan instalasi **Composer** dan **VS Code**:
 
 <p align="center">
   <img src="./gambar/composer.png" alt="Tampilan Composer" width="600">
@@ -35,10 +35,10 @@ Selain itu, saya juga telah menginstal **Composer** sebagai dependency manager u
 
 ## 🧱 Modul 2: Desain Database & Migrasi Laravel
 
-Pada modul ini, saya telah **mengikuti seluruh langkah-langkah** yang dijelaskan mengenai **Desain Database** dan **Migrasi di Laravel**.  
+Pada modul ini, saya telah mengikuti seluruh langkah-langkah yang dijelaskan mengenai **Desain Database** dan **Migrasi di Laravel**.  
 Proses ini meliputi pembuatan struktur tabel menggunakan migrasi dan pengecekan hasilnya di database.
 
-> 💡 Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, yang ditunjukkan melalui screenshot di bawah.
+> Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, yang ditunjukkan melalui screenshot di bawah.
 
 <p align="center">
   <img src="./gambar/env.png" alt="Desain Database" width="600">
@@ -52,10 +52,10 @@ Proses ini meliputi pembuatan struktur tabel menggunakan migrasi dan pengecekan 
 
 ## 🔗 Modul 3: Membuat Model dan Relasi Eloquent
 
-Pada modul ini, saya telah **mengikuti seluruh tahapan** dalam pembuatan **Model** dan penerapan **Relasi Eloquent** di Laravel.  
-Relasi Eloquent digunakan untuk menghubungkan antar tabel dalam database dengan cara yang **efisien**, **rapi**, dan **terstruktur.**
+Pada modul ini, saya telah mengikuti seluruh tahapan dalam pembuatan **Model** dan penerapan **Relasi Eloquent** di Laravel.  
+Relasi Eloquent digunakan untuk menghubungkan antar tabel dalam database dengan cara yang efisien, rapi, dan terstruktur.
 
-> 💡 Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, ditunjukkan melalui screenshot di bawah.
+> Berikut adalah bukti bahwa saya telah menyelesaikan modul ini, ditunjukkan melalui screenshot di bawah.
 
 <p align="center">
   <img src="./gambar/model.png" alt="Pembuatan Model Laravel" width="600">
@@ -68,5 +68,5 @@ Relasi Eloquent digunakan untuk menghubungkan antar tabel dalam database dengan 
 ---
 
 <p align="center">
-  ✨ <i>Dokumentasi ini disusun sebagai bukti partisipasi dalam praktikum Bengkel Koding Laravel.</i> ✨
+  <i>Dokumentasi ini disusun sebagai bukti partisipasi dalam Praktikum Bengkel Koding - Laravel.</i>
 </p>
